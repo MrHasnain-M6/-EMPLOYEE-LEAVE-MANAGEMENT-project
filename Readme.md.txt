@@ -1,9 +1,9 @@
 Employee Leave Management System
 
-**Name**-Md Hasnain
-**Class/sec**-M
-**ERP**-00982
-**PS**-65
+Name-Md Hasnain
+Class/sec -M
+ERP -00982
+PS-65
 
 
 Project Information
